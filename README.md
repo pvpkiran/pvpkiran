@@ -2,7 +2,7 @@
 
 **Senior Java Engineer & Solutions Architect** · 18+ years · Munich, Germany 🇩🇪
 
-I build production-grade backend systems on the JVM — and lately, AI-native systems: MCP servers, agent orchestration, LLM evaluation pipelines, and cloud AI integrations. Background in fintech (Visa/Payworks), enterprise integration (Hilti/SAP), and e-commerce.
+I build production-grade backend systems on the JVM — and lately, AI-native systems: MCP servers, agent orchestration, LLM evaluation pipelines, and cloud AI integrations. Background in fintech (Visa/Payworks, Bo1.de), enterprise integration (Hilti/SAP), automotive (BMW), and e-commerce.
 
 ---
 
@@ -35,6 +35,8 @@ I build production-grade backend systems on the JVM — and lately, AI-native sy
 
 - **Hilti** (Switzerland) — Solution Architect, cloud platform bridging SAP S/4HANA, legacy systems, and Salesforce
 - **Visa / Payworks** (Munich) — Payment processing platforms
+- **Bo1.de** (Frankfurt) — BNPL / instalment-lending consumer credit platform
+- **BMW** (Munich) — AERO logistics platform aggregating data from internal BMW systems
 - **Awin, Windeln.de** — E-commerce and affiliate marketing backends
 - Open to **senior IC, staff/principal, and engineering management** roles + freelance contracts
 
